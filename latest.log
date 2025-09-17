@@ -1,11 +1,18 @@
-[20:42:04] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[20:42:06] [main/INFO]: Loading 70 mods:
+[12:18:34] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[12:18:35] [main/INFO]: Loading 65 mods:
+	- antixray 1.4.10
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- architectury 17.0.8
 	- banhammer 0.14.1+1.21.8
 	   |-- com_mysql_mysql-connector-j 9.3.0
 	   |-- org_postgresql_postgresql 42.7.7
-	   \-- org_xerial_sqlite-jdbc 3.50.3.0
+	   |-- org_xerial_sqlite-jdbc 3.50.3.0
+	   |-- placeholder-api 2.7.0+1.21.6
+	   \-- sgui 1.10.0+1.21.6
 	- carpet 1.4.177+v250630
+	- collective 8.4
 	- disconnect-packet-fix 2.0.0
+	- economycraft 1.2.0
 	- fabric-api 0.131.0+1.21.8
 	   |-- fabric-api-base 0.5.0+cd8c0daa2c
 	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
@@ -51,92 +58,79 @@
 	- fabric-essentials 1.4.4+1.21.6-rc1
 	   |-- common-protection-api 1.0.0
 	   |-- message-api 0.3.2+1.21.5
-	   \-- player-data-api 0.8.0+1.21.6
+	   |-- placeholder-api 2.7.0+1.21.6
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- sgui 1.10.0+1.21.6
 	- fabricloader 0.17.2
 	   \-- mixinextras 0.5.0
+	- firstjoinmessage 3.8
 	- invview 1.4.17-1.21.6+
+	   \-- sgui 1.10.0+1.21.6
 	- java 23
 	- luckperms 5.5.10
 	   \-- fabric-permissions-api-v0 0.4.1
 	- minecraft 1.21.8
 	- nochatreports 1.21.7-v2.14.0
-	- servershop 1.5.8
-	   |-- placeholder-api 2.7.1+1.21.6
-	   |-- polymer-autohost 0.13.7+1.21.8
-	   |    \-- io_netty_netty-codec-http 4.1.82
-	   |-- polymer-blocks 0.13.7+1.21.8
-	   |-- polymer-core 0.13.7+1.21.8
-	   |    |-- polymer-networking 0.13.7+1.21.8
-	   |    |    \-- polymer-common 0.13.7+1.21.8
-	   |    |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |    \-- polymer-registry-sync-manipulator 0.13.7+1.21.8
-	   |-- polymer-resource-pack 0.13.7+1.21.8
-	   |    \-- polymer-common 0.13.7+1.21.8
-	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |-- polymer-virtual-entity 0.13.7+1.21.8
-	   |    \-- polymer-common 0.13.7+1.21.8
-	   |         \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   |-- server_translations_api 2.5.1+1.21.5
-	   |    \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
-	   \-- sgui 1.10.2+1.21.8
+	- starterkit 7.4
 	- vanilla-permissions 0.2.11+1.21.7
 	   \-- fabric-permissions-api-v0 0.4.1
 	- worldedit 7.3.16+cbf4bd5
 	   \-- worldeditcui_protocol 4.0.2
-[20:42:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:42:06] [main/INFO]: Compatibility level set to JAVA_17
-[20:42:06] [main/INFO]: Compatibility level set to JAVA_21
-[20:42:08] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
-[20:42:09] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[20:42:32] [main/INFO]: Disconnect Packet Fix has started.
-[20:42:33] [main/INFO]: Loading essentials config
-[20:42:35] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6e7813d7]
-[20:42:35] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
-[20:42:36] [main/INFO]: Loading configuration...
-[20:42:37] [main/ERROR]: Failed to store properties to file: server.properties
-[20:42:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:42] [Worker-Main-3/INFO]: Loaded Fabric Permissions
-[20:42:42] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
-[20:42:43] [main/INFO]: Loaded 1407 recipes
-[20:42:44] [main/INFO]: Loaded 1520 advancements
-[20:42:44] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 1 translation keys
-[20:42:44] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.823 ms
-[20:42:45] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
-[20:42:45] [Server thread/INFO]:         __    
-[20:42:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[20:42:45] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
-[20:42:45] [Server thread/INFO]: 
-[20:42:45] [Server thread/INFO]: Loading storage provider... [H2]
-[20:42:46] [Server thread/INFO]: Loading internal permission managers...
-[20:42:46] [Server thread/INFO]: Performing initial data load...
-[20:42:46] [Server thread/INFO]: Successfully enabled. (took 1140ms)
-[20:42:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:42:46] [Server thread/INFO]: Loading properties
-[20:42:46] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:46] [Server thread/INFO]: Generating keypair
-[20:42:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:47] [Server thread/INFO]: Using epoll channel type
-[20:42:48] [Server thread/INFO]: Preparing level "world"
-[20:42:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:57] [Worker-Main-4/INFO]: Preparing spawn area: 53%
-[20:42:57] [Server thread/INFO]: Time elapsed: 7888 ms
-[20:42:57] [Server thread/INFO]: Done (9.515s)! For help, type "help"
-[20:42:57] [Server thread/INFO]: Starting remote control listener
-[20:42:57] [Server thread/INFO]: Thread RCON Listener started
-[20:42:57] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[20:44:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:18:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:18:36] [main/INFO]: Compatibility level set to JAVA_17
+[12:18:36] [main/INFO]: Compatibility level set to JAVA_21
+[12:18:36] [main/WARN]: Reference map 'economycraft-common-1.2.0_1.21.8-common-refmap.json' for economycraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:18:39] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[12:18:39] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:18:49] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[12:19:00] [main/INFO]: Successfully initialized antixray for fabric
+[12:19:01] [main/INFO]: Loading Collective version 8.4.
+[12:19:01] [main/INFO]: Disconnect Packet Fix has started.
+[12:19:02] [main/INFO]: Loading essentials config
+[12:19:03] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@188c409e]
+[12:19:03] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[12:19:04] [main/INFO]: Loading configuration...
+[12:19:05] [main/ERROR]: Failed to store properties to file: server.properties
+[12:19:05] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:19:10] [Worker-Main-3/INFO]: Loaded Fabric Permissions
+[12:19:10] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:19:11] [main/INFO]: Loaded 1407 recipes
+[12:19:11] [main/INFO]: Loaded 1520 advancements
+[12:19:11] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 4.881 ms
+[12:19:12] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
+[12:19:12] [Server thread/INFO]:         __    
+[12:19:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[12:19:12] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
+[12:19:12] [Server thread/INFO]: 
+[12:19:12] [Server thread/INFO]: Loading storage provider... [H2]
+[12:19:13] [Server thread/INFO]: Loading internal permission managers...
+[12:19:13] [Server thread/INFO]: Performing initial data load...
+[12:19:13] [Server thread/INFO]: Successfully enabled. (took 1393ms)
+[12:19:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[12:19:13] [Server thread/INFO]: Loading properties
+[12:19:13] [Server thread/INFO]: Default game type: SURVIVAL
+[12:19:13] [Server thread/INFO]: Generating keypair
+[12:19:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:19:14] [Server thread/INFO]: Using epoll channel type
+[12:19:14] [Server thread/INFO]: Preparing level "world"
+[12:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:19:22] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[12:19:22] [Server thread/INFO]: Time elapsed: 6715 ms
+[12:19:22] [Server thread/INFO]: Done (8.395s)! For help, type "help"
+[12:19:22] [Server thread/INFO]: Starting remote control listener
+[12:19:22] [Server thread/INFO]: Thread RCON Listener started
+[12:19:22] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[12:20:26] [Server thread/INFO]: Server empty for 60 seconds, pausing

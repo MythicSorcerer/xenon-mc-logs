@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /opt/minecraft/server/logs
+
+# Add all changes
+git add .
+
+# Check if there are any changes to commit
+if ! git diff --cached --quiet; then
+    # Commit with timestamp
+    git commit -m "$(date '+%m/%d') logs"
+    echo "$(date): Committed log changes" >> /var/log/minecraft-git-auto.log
+else
+    echo "$(date): No changes to commit" >> /var/log/minecraft-git-auto.log
+fi
