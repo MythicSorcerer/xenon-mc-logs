@@ -1,0 +1,579 @@
+[07:14:28] [User Authenticator #1/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[07:14:30] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:10132] logged in with entity id 13 at (496.39825964578097, 88.0, -95.30000001192093)
+[07:14:30] [Server thread/INFO]: MythicSorcerer joined the game
+[07:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[07:17:17] [Server thread/INFO]: MythicSorcerer has made the advancement [Acquire Hardware]
+[07:17:43] [Server thread/INFO]: MythicSorcerer has made the advancement [Isn't It Iron Pick]
+[07:23:46] [Server thread/INFO]: MythicSorcerer has made the advancement [Not Today, Thank You]
+[07:25:50] [Server thread/INFO]: MythicSorcerer has made the advancement [Sweet Dreams]
+[07:30:32] [User Authenticator #2/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[07:30:33] [Server thread/INFO]: Ventro_[/12.23.20.238:58089] logged in with entity id 5155 at (519.5803069328865, 71.0, 106.55824933673338)
+[07:30:33] [Server thread/INFO]: Ventro_ joined the game
+[07:30:41] [Server thread/INFO]: <Ventro_> yooo
+[07:30:45] [Server thread/INFO]: <Ventro_> gimme dimsss
+[07:30:50] [Server thread/INFO]: <MythicSorcerer> hmmm
+[07:30:55] [Server thread/INFO]: <Ventro_> gimme diamonds
+[07:31:07] [Server thread/INFO]: <Ventro_> nah jk
+[07:31:38] [Server thread/INFO]: <Ventro_> r e spectatung me?
+[07:31:41] [Server thread/INFO]: <MythicSorcerer> no
+[07:31:44] [Server thread/INFO]: <Ventro_> good
+[07:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[07:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[07:35:16] [Server thread/INFO]: Ventro_ has made the advancement [Ice Bucket Challenge]
+[07:35:45] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[07:35:45] [Server thread/INFO]: MythicSorcerer left the game
+[07:36:00] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[07:36:00] [Server thread/INFO]: Ventro_ left the game
+[07:37:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:07:23] [User Authenticator #3/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[08:07:24] [Server thread/INFO]: Ventro_[/12.23.20.238:30833] logged in with entity id 9364 at (-462.5439291484333, 64.0, 583.2692960625558)
+[08:07:24] [Server thread/INFO]: Ventro_ joined the game
+[08:08:54] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[08:08:54] [Server thread/INFO]: Ventro_ left the game
+[08:08:54] [Server thread/WARN]: handleDisconnection() called twice
+[08:09:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:11:30] [User Authenticator #4/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[08:11:31] [Server thread/INFO]: Ventro_[/12.23.20.238:63982] logged in with entity id 9890 at (-501.9791910258465, 68.0, 571.391270508266)
+[08:11:31] [Server thread/INFO]: Ventro_ joined the game
+[08:13:46] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[08:13:46] [Server thread/INFO]: Ventro_ left the game
+[08:14:28] [User Authenticator #5/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[08:14:29] [Server thread/INFO]: whattyyuuu[/12.23.20.238:2217] logged in with entity id 10454 at (26.208966028917835, 79.0, -75.02523477218382)
+[08:14:29] [Server thread/INFO]: whattyyuuu joined the game
+[08:17:21] [User Authenticator #6/INFO]: UUID of player ElEcTrOnIc_FoOf is 1c08df7f-2dbd-42b2-8ab9-345ff2518937
+[08:17:23] [Server thread/INFO]: ElEcTrOnIc_FoOf[/12.23.20.238:49801] logged in with entity id 11362 at (9.34625238891677, 59.0, 34.30000001192093)
+[08:17:23] [Server thread/INFO]: ElEcTrOnIc_FoOf joined the game
+[08:17:57] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Getting an Upgrade]
+[08:21:17] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Sweet Dreams]
+[08:21:44] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Monster Hunter]
+[08:23:45] [Server thread/INFO]: ElEcTrOnIc_FoOf lost connection: Disconnected
+[08:23:45] [Server thread/INFO]: ElEcTrOnIc_FoOf left the game
+[08:23:45] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[08:23:45] [Server thread/INFO]: whattyyuuu left the game
+[08:23:45] [Server thread/WARN]: handleDisconnection() called twice
+[08:24:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[08:57:17] [User Authenticator #7/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[08:57:17] [Server thread/INFO]: whattyyuuu[/12.23.20.238:30173] logged in with entity id 13369 at (57.75680360478708, 67.0, -194.6343962826491)
+[08:57:17] [Server thread/INFO]: whattyyuuu joined the game
+[08:58:10] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[08:58:10] [Server thread/INFO]: whattyyuuu left the game
+[08:59:02] [User Authenticator #8/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[08:59:02] [Server thread/INFO]: whattyyuuu[/12.23.20.238:62122] logged in with entity id 13823 at (153.4002617551084, 85.0, -163.96715442302235)
+[08:59:02] [Server thread/INFO]: whattyyuuu joined the game
+[09:03:23] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[09:04:39] [User Authenticator #9/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[09:04:40] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:27747] logged in with entity id 15203 at (2156.8807969792824, 62.0, 140.44967620419678)
+[09:04:40] [Server thread/INFO]: MythicSorcerer joined the game
+[09:05:13] [luckperms-worker-3/INFO]: [LP] LOG > (MythicSorcerer) [U] (whattyyuuu)
+[09:05:13] [luckperms-worker-3/INFO]: [LP] LOG > webeditor add fabric-essentials.command.anvil true
+[09:05:17] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[09:05:17] [Server thread/INFO]: MythicSorcerer left the game
+[09:08:14] [Server thread/INFO]: [whattyyuuu: Teleported whattyyuuu to -16.000000, 67.000000, 16.000000]
+[09:09:23] [Server thread/INFO]: [whattyyuuu: Summoned new Creeper]
+[09:09:39] [Server thread/INFO]: [whattyyuuu: Summoned new Creeper]
+[09:09:56] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[09:09:56] [Server thread/INFO]: whattyyuuu left the game
+[09:10:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[09:34:44] [User Authenticator #10/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[09:34:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@18b58ce4[id=8eced167-5fbf-4967-a62b-2a48af7c4ec5,name=whattyyuuu,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc1ODIxMzI4NDE1NywKICAicHJvZmlsZUlkIiA6ICI4ZWNlZDE2NzVmYmY0OTY3YTYyYjJhNDhhZjdjNGVjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0dHl5dXV1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExOWVmYmQ2MzFjNGExYjc1ZTBlMWU2ZGRkZjJlOGQxMzI2MGJiMDZiOGZiODc2MzQ3ZGYwOTMxY2ExZmE0Y2YiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkZTIxNDE5MDA5ZGI0ODM5MDBkYTYyOThhMWU2Y2JmOWYxYmMxNTIzYTBkY2RjMTYyNjNmYWIxNTA2OTNlZGQiCiAgICB9CiAgfQp9, signature=gJmKtWkCbUACsdiJuDyHCMvFp+oc5aH7F0hYfO6nxwwC9XOlL1TYfh3DbegcpCCq8eaAeNDVT96W5PLpTmTfCUndl9tPAFVPaNw9OfeyqBNeMi7GUwxX0o2s3ptskt0WgqytqHhczykoPUFplFiq0ssUr3iylwKwUcC16BWa9AvP98XUu4v83+IKjXeuBVdzjsyqhKzN6SEsLlKKCWSoJiLS1VVJtroSAqRSOgDjQ+nob+8x3DUiWGcu5gqv2QcW1gk7qmYEk8Q06tQ5kb0tzwhbY7Tv9rkJcLc0yrTDk5cm7xa3ohPUTqId5PNfC9lPiHCoWG/Xci4+4Z/rLlIad3QPkqsDMFotjvJ5n1gRZFgoLlq37vdj8Roi2VW8Ax1QqJcpH7Hy5E1kPX2voTybvP1ByJNsnXGKmjRYgROD3h1+BVm6HVzVJP7cDYRw0pS5Oze+ETDtm9SMVHCSLO4yOKd0iRUud4fiEKUa3vxfwYNXGBVgKgCFM/0r6IYK4EvkjIkbO3wEV100nV99UaMDvE+3eYq77NyZwLcY3ikUazfFKpppW5bdy0wppQIVQEG9h9dh8LcBJNiK10xj9OyDQ/quDgLR7VBW+TQGpCwxJYEPijf3+9cNpdSvnlrFENKTsh8ustKh/SkWUiAdG9ntpRVefE2ByX10ksmBgfdMLRY=]]}] lost connection: Disconnected
+[09:37:46] [User Authenticator #11/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[09:37:46] [Server thread/INFO]: whattyyuuu[/12.23.20.238:59895] logged in with entity id 16646 at (143.22649097113032, 80.0, -125.76046246582906)
+[09:37:46] [Server thread/INFO]: whattyyuuu joined the game
+[09:38:31] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[09:38:31] [Server thread/INFO]: whattyyuuu left the game
+[09:39:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:01:28] [User Authenticator #12/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[10:01:29] [Server thread/INFO]: whattyyuuu[/12.23.20.238:56726] logged in with entity id 17055 at (192.57962075137635, 97.0, -131.6353059186806)
+[10:01:29] [Server thread/INFO]: whattyyuuu joined the game
+[10:02:43] [Server thread/INFO]: [Rcon] 200 80 120
+[10:03:05] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[10:03:05] [Server thread/INFO]: whattyyuuu left the game
+[10:04:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:04:13] [User Authenticator #13/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[10:04:13] [Server thread/INFO]: whattyyuuu[/12.23.20.238:53051] logged in with entity id 17675 at (190.86173115449972, 94.0625, -131.62293878155722)
+[10:04:13] [Server thread/INFO]: whattyyuuu joined the game
+[10:05:02] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[10:05:02] [Server thread/INFO]: whattyyuuu left the game
+[10:06:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[10:07:53] [User Authenticator #14/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[10:07:54] [Server thread/INFO]: whattyyuuu[/12.23.20.238:32619] logged in with entity id 18129 at (75.03890363672522, 67.0, -196.6941889647371)
+[10:07:54] [Server thread/INFO]: whattyyuuu joined the game
+[10:08:10] [Server thread/INFO]: [Rcon: Applied effect Hunger to whattyyuuu]
+[10:08:30] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[10:08:30] [Server thread/INFO]: whattyyuuu left the game
+[10:09:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[11:49:10] [User Authenticator #15/INFO]: Disconnecting whattyyuuu (/193.138.218.162:58318): Failed to verify username!
+[11:49:10] [User Authenticator #15/ERROR]: Username 'whattyyuuu' tried to join with an invalid session
+[11:49:11] [Server thread/INFO]: whattyyuuu (/193.138.218.162:58318) lost connection: Failed to verify username!
+[12:30:41] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:30:41] [Server thread/INFO]: [Rcon: Automatic saving is now disabled]
+[12:30:41] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:30:41] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:30:41] [Server thread/INFO]: [Rcon: Saved the game]
+[12:30:41] [RCON Client /0:0:0:0:0:0:0:1 #4/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:30:41] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:30:41] [Server thread/INFO]: [Rcon] Backup starting... Server may lag briefly.
+[12:30:41] [RCON Client /0:0:0:0:0:0:0:1 #5/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:30:59] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:30:59] [Server thread/INFO]: [Rcon: Automatic saving is now enabled]
+[12:30:59] [RCON Client /0:0:0:0:0:0:0:1 #6/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:37:35] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:37:35] [Server thread/INFO]: [Rcon: Automatic saving is now disabled]
+[12:37:35] [RCON Client /0:0:0:0:0:0:0:1 #7/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:37:35] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:37:35] [Server thread/INFO]: [Rcon: Saved the game]
+[12:37:35] [RCON Client /0:0:0:0:0:0:0:1 #8/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:37:35] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:37:35] [Server thread/INFO]: [Rcon] Backup starting... Server may lag briefly.
+[12:37:35] [RCON Client /0:0:0:0:0:0:0:1 #9/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:37:40] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:37:40] [Server thread/INFO]: [Rcon: Automatic saving is now enabled]
+[12:37:40] [RCON Client /0:0:0:0:0:0:0:1 #10/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:43:53] [User Authenticator #16/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[12:43:54] [Server thread/INFO]: Ventro_[/12.23.20.238:2422] logged in with entity id 18439 at (-528.7408773781348, 64.0, 542.1510125724717)
+[12:43:54] [Server thread/INFO]: Ventro_ joined the game
+[12:56:03] [Server thread/WARN]: Ventro_ moved too quickly! -2.3638689410154257,-0.2277792520400368,-9.999984318327279
+[12:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[12:58:26] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[12:58:26] [Server thread/INFO]: Ventro_ left the game
+[12:59:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:02:01] [User Authenticator #17/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[13:02:02] [Server thread/INFO]: Ventro_[/12.23.20.238:32560] logged in with entity id 22640 at (-789.884013584611, 67.0, 478.8975740355355)
+[13:02:02] [Server thread/INFO]: Ventro_ joined the game
+[13:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[13:18:37] [Server thread/INFO]: Ventro_ fell from a high place
+[13:18:50] [Server thread/INFO]: Ventro_ fell from a high place
+[13:19:22] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[13:19:22] [Server thread/INFO]: Ventro_ left the game
+[13:20:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:38:09] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:38:09] [Server thread/INFO]: [Rcon: Automatic saving is now disabled]
+[14:38:09] [RCON Client /0:0:0:0:0:0:0:1 #11/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:38:09] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:38:09] [Server thread/INFO]: [Rcon: Saved the game]
+[14:38:09] [RCON Client /0:0:0:0:0:0:0:1 #12/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:38:09] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:38:09] [Server thread/INFO]: [Rcon] Backup starting... Server may lag briefly.
+[14:38:09] [RCON Client /0:0:0:0:0:0:0:1 #13/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:38:15] [User Authenticator #18/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[14:38:16] [Server thread/INFO]: Ventro_[/12.23.20.238:37584] logged in with entity id 30211 at (-459.05686244152406, 66.0, 548.2688877713621)
+[14:38:16] [Server thread/INFO]: Ventro_ joined the game
+[14:38:34] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:38:34] [Server thread/INFO]: [Rcon: Automatic saving is now enabled]
+[14:38:34] [RCON Client /0:0:0:0:0:0:0:1 #14/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:38:34] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:38:34] [Server thread/INFO]: [Rcon] Backup complete!
+[14:38:34] [RCON Client /0:0:0:0:0:0:0:1 #15/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:38:39] [Server thread/INFO]: <Ventro_> bet
+[14:38:43] [Server thread/INFO]: <Ventro_> can u give dims
+[14:39:42] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:39:42] [Server thread/INFO]: [Rcon: Automatic saving is now disabled]
+[14:39:42] [RCON Client /0:0:0:0:0:0:0:1 #16/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:39:42] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:39:42] [Server thread/INFO]: [Rcon: Saved the game]
+[14:39:42] [RCON Client /0:0:0:0:0:0:0:1 #17/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:39:42] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:39:42] [Server thread/INFO]: [Rcon] Backup starting... Server may lag briefly.
+[14:39:42] [RCON Client /0:0:0:0:0:0:0:1 #18/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:40:05] [Server thread/INFO]: Ventro_ drowned
+[14:40:05] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:40:05] [Server thread/INFO]: [Rcon: Automatic saving is now enabled]
+[14:40:05] [RCON Client /0:0:0:0:0:0:0:1 #19/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:40:05] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[14:40:05] [Server thread/INFO]: [Rcon] Backup complete!
+[14:40:05] [RCON Client /0:0:0:0:0:0:0:1 #20/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[14:40:39] [Server thread/INFO]: Ventro_ drowned
+[14:41:06] [Server thread/INFO]: Ventro_ drowned
+[14:44:21] [Server thread/INFO]: Ventro_ was slain by Enderman
+[14:44:30] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[14:44:30] [Server thread/INFO]: Ventro_ left the game
+[14:45:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:49:51] [User Authenticator #19/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[14:49:52] [Server thread/INFO]: whattyyuuu[/12.23.20.238:7979] logged in with entity id 33308 at (49.60420783622988, 72.0, -222.91112627188087)
+[14:49:52] [Server thread/INFO]: whattyyuuu joined the game
+[14:57:11] [User Authenticator #20/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[14:57:12] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:35751] logged in with entity id 35027 at (2155.190622368635, 63.0, 145.6628095198538)
+[14:57:12] [Server thread/INFO]: MythicSorcerer joined the game
+[14:57:14] [Server thread/INFO]: <whattyyuuu> hi
+[14:57:30] [Server thread/INFO]: <whattyyuuu> i should be working on my physics slides
+[14:57:36] [Server thread/INFO]: <MythicSorcerer> welp im done
+[14:57:45] [Server thread/INFO]: <whattyyuuu> ooh
+[14:58:26] [Server thread/INFO]: [MythicSorcerer: Changed the block at 2155, 57, 140]
+[15:01:03] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[15:01:03] [Server thread/INFO]: whattyyuuu left the game
+[15:01:09] [User Authenticator #21/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[15:01:10] [Server thread/INFO]: Ventro_[/12.23.20.238:2229] logged in with entity id 37295 at (-1.7134462557181704, 63.0, 44.84162001873432)
+[15:01:10] [Server thread/INFO]: Ventro_ joined the game
+[15:01:13] [Server thread/INFO]: <Ventro_> yo
+[15:01:15] [Server thread/INFO]: <MythicSorcerer> yo
+[15:01:18] [Server thread/INFO]: <Ventro_> can i have stuff pls
+[15:01:21] [Server thread/INFO]: <Ventro_> he kill me
+[15:01:35] [Server thread/INFO]: <Ventro_> can i have the fly chestplate
+[15:01:47] [Server thread/INFO]: <Ventro_> i wont be obvious
+[15:02:01] [Server thread/INFO]: <Ventro_> thx
+[15:02:35] [User Authenticator #22/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[15:02:36] [Server thread/INFO]: whattyyuuu[/12.23.20.238:11704] logged in with entity id 38092 at (27.39321735749135, 67.0, -170.98293534297537)
+[15:02:36] [Server thread/INFO]: whattyyuuu joined the game
+[15:02:42] [Server thread/INFO]: <Ventro_> yoooo
+[15:02:43] [Server thread/INFO]: <whattyyuuu> hop off
+[15:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:02:47] [Server thread/INFO]: <Ventro_> why?
+[15:03:03] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[15:03:03] [Server thread/INFO]: whattyyuuu left the game
+[15:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4557ms or 91 ticks behind
+[15:06:55] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[15:06:55] [Server thread/INFO]: MythicSorcerer left the game
+[15:11:08] [User Authenticator #23/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[15:11:10] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:29519] logged in with entity id 43200 at (652.6130052798268, 64.0, 65.123211201939)
+[15:11:10] [Server thread/INFO]: MythicSorcerer joined the game
+[15:11:14] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[15:11:14] [Server thread/INFO]: MythicSorcerer left the game
+[15:11:16] [Server thread/INFO]: <Ventro_> im almost there
+[15:11:53] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[15:11:53] [Server thread/INFO]: Ventro_ left the game
+[15:12:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:13:39] [User Authenticator #24/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[15:13:40] [Server thread/INFO]: whattyyuuu[/12.23.20.238:6567] logged in with entity id 43726 at (20.579622909715948, 70.60962517609282, -172.4257341317107)
+[15:13:40] [Server thread/INFO]: whattyyuuu joined the game
+[15:14:25] [User Authenticator #25/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:14:27] [Server thread/INFO]: botnumberone4[/76.102.133.203:58694] logged in with entity id 43961 at (2009.0405176500628, 66.571789965605, 310.1976806017964)
+[15:14:27] [Server thread/INFO]: botnumberone4 joined the game
+[15:16:38] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[15:16:38] [Server thread/INFO]: botnumberone4 left the game
+[15:17:53] [User Authenticator #26/INFO]: UUID of player ElEcTrOnIc_FoOf is 1c08df7f-2dbd-42b2-8ab9-345ff2518937
+[15:17:57] [Server thread/INFO]: ElEcTrOnIc_FoOf[/12.23.20.238:19620] logged in with entity id 46118 at (58.51117582253975, 68.0, -202.25994621295226)
+[15:17:57] [Server thread/INFO]: ElEcTrOnIc_FoOf joined the game
+[15:23:19] [User Authenticator #27/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[15:23:25] [Server thread/INFO]: MythicSorcerer[/12.23.20.238:54486] logged in with entity id 47984 at (643.1752715093364, 65.0, 60.74718130727507)
+[15:23:25] [Server thread/INFO]: MythicSorcerer joined the game
+[15:23:26] [Server thread/WARN]: ElEcTrOnIc_FoOf moved too quickly! 9.471908463845374,-2.5463680547542538,-3.0127845519758125
+[15:23:31] [Server thread/INFO]: <ElEcTrOnIc_FoOf> COOKED
+[15:24:09] [Server thread/WARN]: ElEcTrOnIc_FoOf moved too quickly! 3.8255099284219263,-9.828285190372341,1.2794848092799498
+[15:24:10] [Server thread/INFO]: MythicSorcerer lost connection: Timed out
+[15:24:10] [Server thread/INFO]: MythicSorcerer left the game
+[15:25:20] [Server thread/INFO]: MythicSorcerer (/12.23.20.238:45339) lost connection: Disconnected
+[15:27:58] [Server thread/INFO]: ElEcTrOnIc_FoOf lost connection: Timed out
+[15:27:58] [Server thread/INFO]: ElEcTrOnIc_FoOf left the game
+[15:28:11] [Server thread/INFO]: whattyyuuu has made the advancement [Who is Cutting Onions?]
+[15:28:50] [User Authenticator #28/INFO]: UUID of player ElEcTrOnIc_FoOf is 1c08df7f-2dbd-42b2-8ab9-345ff2518937
+[15:28:59] [Server thread/INFO]: ElEcTrOnIc_FoOf[/12.23.20.238:30916] logged in with entity id 50110 at (56.598624738455044, 65.0, -52.336552784967466)
+[15:28:59] [Server thread/INFO]: ElEcTrOnIc_FoOf joined the game
+[15:29:44] [Server thread/INFO]: ElEcTrOnIc_FoOf lost connection: Timed out
+[15:29:44] [Server thread/INFO]: ElEcTrOnIc_FoOf left the game
+[15:31:43] [User Authenticator #29/INFO]: UUID of player ElEcTrOnIc_FoOf is 1c08df7f-2dbd-42b2-8ab9-345ff2518937
+[15:31:47] [Server thread/INFO]: ElEcTrOnIc_FoOf[/174.194.133.178:8088] logged in with entity id 50628 at (54.69999998807907, 61.0, -52.649284377025644)
+[15:31:47] [Server thread/INFO]: ElEcTrOnIc_FoOf joined the game
+[15:32:55] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Acquire Hardware]
+[15:34:25] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Suit Up]
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 10.116654879554574,-1.0,-0.22506744800827505
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 10.63778062474617,-1.0,-0.10820263919664797
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 11.162139935281942,-1.0,0.020737905566804216
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 11.688114263374501,-1.0,0.15682345567461198
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 12.214900994817214,-1.0,0.29706290921198786
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 12.739239226510108,-1.0,0.4492986796026486
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 13.24474059816535,-1.0,0.6494829697760167
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 13.690091056227999,-1.0,0.9406620608706078
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 13.967279475092369,-1.0,1.2972122589895747
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.152424087027953,-1.0784000015258783,1.6894941119681022
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.256893028751506,-1.233632006042484,1.9234405713725664
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.355339740324695,-1.4641593749554431,2.1560923983660416
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.448306222303131,-1.7684762024129839,2.3875661098315675
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.536285695206601,-2.0,2.6179677361357676
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.650146735512664,-2.0,3.0252386443085015
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 14.890679039089406,-2.0,3.3391320651904834
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 15.200373860445353,-2.0784000015258783,3.602041372089772
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 15.387314187175008,-2.233632006042484,3.754721691112053
+[15:35:27] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! 15.575348925122,-2.464159374955443,3.9026503021674017
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved wrongly! 0.5672214810474543
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! -7.803326695206209,3.0,-7.5626635164454115
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! -7.803326695206209,3.0,-7.5626635164454115
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! -7.705384413109783,3.0,-7.148791602995388
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! -7.616309841524696,3.0,-6.725528131592924
+[15:35:28] [Server thread/WARN]: Horse (vehicle of ElEcTrOnIc_FoOf) moved too quickly! -7.418834312641593,3.0,-6.295417488748797
+[15:36:39] [User Authenticator #30/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[15:36:40] [Server thread/INFO]: Ventro_[/12.23.20.238:51500] logged in with entity id 52758 at (1942.867453578594, 61.382031102946655, 61.21964449496758)
+[15:36:40] [Server thread/INFO]: Ventro_ joined the game
+[15:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:37:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[15:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[15:38:06] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Not Today, Thank You]
+[15:38:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[15:38:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[15:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3771ms or 75 ticks behind
+[15:40:05] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Isn't It Iron Pick]
+[15:40:19] [Server thread/INFO]: ElEcTrOnIc_FoOf has made the advancement [Diamonds!]
+[15:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[15:41:03] [Server thread/INFO]: ElEcTrOnIc_FoOf was slain by Zombie
+[15:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[15:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[15:41:48] [User Authenticator #31/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:41:49] [Server thread/INFO]: botnumberone4[/76.102.133.203:58885] logged in with entity id 55711 at (1566.952703189235, 75.0, 79.17658509588688)
+[15:41:49] [Server thread/INFO]: botnumberone4 joined the game
+[15:41:52] [Server thread/INFO]: <botnumberone4> hi
+[15:41:54] [Server thread/INFO]: <botnumberone4> akshar
+[15:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[15:41:59] [Server thread/INFO]: <Ventro_> h
+[15:42:01] [Server thread/INFO]: <ElEcTrOnIc_FoOf> fuck thes shi
+[15:42:02] [Server thread/INFO]: botnumberone4 has made the advancement [Not Today, Thank You]
+[15:42:07] [Server thread/INFO]: <whattyyuuu> aarav died
+[15:42:11] [Server thread/INFO]: <botnumberone4> oh
+[15:42:12] [Server thread/INFO]: <ElEcTrOnIc_FoOf> cooked
+[15:42:13] [Server thread/INFO]: <Ventro_> lol
+[15:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6532ms or 130 ticks behind
+[15:42:35] [Server thread/INFO]: <ElEcTrOnIc_FoOf> yo bot i broke ur farm
+[15:42:38] [Server thread/INFO]: <botnumberone4> why
+[15:42:44] [Server thread/INFO]: <ElEcTrOnIc_FoOf> hungry
+[15:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11996ms or 239 ticks behind
+[15:42:48] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[15:42:48] [Server thread/INFO]: botnumberone4 left the game
+[15:42:58] [User Authenticator #32/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:43:01] [Server thread/INFO]: botnumberone4[/76.102.133.203:58896] logged in with entity id 56641 at (1579.547378243684, 66.0, 105.86332103550848)
+[15:43:01] [Server thread/INFO]: botnumberone4 joined the game
+[15:43:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:43:13] [Server thread/INFO]: whattyyuuu has made the advancement [A Terrible Fortress]
+[15:43:14] [Server thread/INFO]: <ElEcTrOnIc_FoOf> gae
+[15:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9543ms or 190 ticks behind
+[15:43:41] [Server thread/WARN]: Ventro_ moved too quickly! 10.031306808463796,0.49520087700592086,-2.053688459052836
+[15:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8748ms or 174 ticks behind
+[15:44:10] [Server thread/INFO]: whattyyuuu has made the advancement [Into Fire]
+[15:44:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10099ms or 201 ticks behind
+[15:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5679ms or 113 ticks behind
+[15:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7593ms or 151 ticks behind
+[15:45:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8872ms or 177 ticks behind
+[15:45:26] [Server thread/INFO]: botnumberone4 has made the advancement [Ice Bucket Challenge]
+[15:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8043ms or 160 ticks behind
+[15:45:49] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[15:45:49] [Server thread/INFO]: whattyyuuu left the game
+[15:45:53] [User Authenticator #33/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[15:45:53] [Server thread/INFO]: whattyyuuu[/12.23.20.238:19374] logged in with entity id 60084 at (298.3383290834943, 63.0, -201.69999998807907)
+[15:45:53] [Server thread/INFO]: whattyyuuu joined the game
+[15:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3405ms or 68 ticks behind
+[15:46:10] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[15:46:10] [Server thread/INFO]: botnumberone4 left the game
+[15:46:17] [User Authenticator #34/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:46:21] [Server thread/INFO]: botnumberone4[/76.102.133.203:58913] logged in with entity id 60637 at (1781.389087218398, 54.0, 93.5062816448807)
+[15:46:21] [Server thread/INFO]: botnumberone4 joined the game
+[15:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[15:46:38] [Server thread/WARN]: Ventro_ moved wrongly!
+[15:46:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3375ms or 67 ticks behind
+[15:46:52] [Server thread/WARN]: Ventro_ was kicked for floating too long!
+[15:46:52] [Server thread/INFO]: Ventro_ lost connection: Flying is not enabled on this server
+[15:46:52] [Server thread/INFO]: Ventro_ left the game
+[15:46:57] [User Authenticator #35/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[15:46:59] [Server thread/INFO]: Ventro_[/12.23.20.238:25226] logged in with entity id 61173 at (2325.34490479952, 66.00133597911214, 260.23332055118806)
+[15:46:59] [Server thread/INFO]: Ventro_ joined the game
+[15:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6399ms or 127 ticks behind
+[15:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5463ms or 109 ticks behind
+[15:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9103ms or 182 ticks behind
+[15:48:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9481ms or 189 ticks behind
+[15:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10546ms or 210 ticks behind
+[15:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[15:49:20] [Server thread/INFO]: <botnumberone4> i feel like someone is hunting me down
+[15:49:27] [Server thread/INFO]: <botnumberone4> according to locater bar
+[15:49:29] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[15:49:29] [Server thread/INFO]: Ventro_ left the game
+[15:49:32] [Server thread/INFO]: botnumberone4 has made the advancement [Minecraft: Trial(s) Edition]
+[15:49:34] [Server thread/INFO]: <botnumberone4> yeah its akshar
+[15:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[15:49:40] [Server thread/INFO]: <ElEcTrOnIc_FoOf> yooo trial chamber??
+[15:49:42] [User Authenticator #36/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[15:49:47] [Server thread/INFO]: Ventro_[/12.23.20.238:12579] logged in with entity id 64790 at (2396.9958712436724, 66.79673560066871, 730.2113843171082)
+[15:49:47] [Server thread/INFO]: Ventro_ joined the game
+[15:49:48] [Server thread/INFO]: <ElEcTrOnIc_FoOf> thatss crazyyy
+[15:49:49] [Server thread/INFO]: ElEcTrOnIc_FoOf drowned
+[15:49:50] [Server thread/INFO]: <botnumberone4> what
+[15:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[15:50:01] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[15:50:01] [Server thread/INFO]: Ventro_ left the game
+[15:50:10] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[15:50:10] [Server thread/INFO]: botnumberone4 left the game
+[15:50:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[15:50:24] [User Authenticator #37/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:50:27] [Server thread/INFO]: botnumberone4[/76.102.133.203:58933] logged in with entity id 65590 at (1640.4841524281987, -20.0, 279.3959479881641)
+[15:50:27] [Server thread/INFO]: botnumberone4 joined the game
+[15:50:52] [Server thread/INFO]: botnumberone4 has made the advancement [Suit Up]
+[15:51:14] [User Authenticator #38/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[15:51:15] [Server thread/INFO]: Ventro_[/12.23.20.238:50094] logged in with entity id 66295 at (2405.327605796706, 69.49520087700593, 742.9321395997094)
+[15:51:15] [Server thread/INFO]: Ventro_ joined the game
+[15:51:18] [Server thread/INFO]: <botnumberone4> hi
+[15:51:22] [Server thread/INFO]: <Ventro_> hi
+[15:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:51:29] [Server thread/INFO]: <Ventro_> k
+[15:51:39] [Server thread/INFO]: <Ventro_> k
+[15:51:40] [Server thread/INFO]: <Ventro_> coords
+[15:51:42] [Server thread/INFO]: botnumberone4 has made the advancement [Diamonds!]
+[15:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8563ms or 171 ticks behind
+[15:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5130ms or 102 ticks behind
+[15:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
+[15:52:32] [Server thread/INFO]: <Ventro_> no
+[15:52:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4951ms or 99 ticks behind
+[15:53:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[15:53:17] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[15:53:17] [Server thread/INFO]: botnumberone4 left the game
+[15:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[15:53:41] [User Authenticator #39/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[15:53:45] [Server thread/INFO]: botnumberone4[/76.102.133.203:58947] logged in with entity id 68122 at (1642.353793896429, -26.0, 259.63247506034753)
+[15:53:45] [Server thread/INFO]: botnumberone4 joined the game
+[15:53:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4750ms or 95 ticks behind
+[15:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4907ms or 98 ticks behind
+[15:54:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4599ms or 91 ticks behind
+[15:55:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5523ms or 110 ticks behind
+[15:55:24] [Server thread/INFO]: botnumberone4 has made the advancement [Under Lock and Key]
+[15:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6386ms or 127 ticks behind
+[15:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3566ms or 71 ticks behind
+[15:56:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3582ms or 71 ticks behind
+[15:56:20] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[15:56:20] [Server thread/INFO]: whattyyuuu left the game
+[15:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5304ms or 106 ticks behind
+[15:57:30] [Server thread/INFO]: <botnumberone4> hi akshar
+[15:57:33] [Server thread/INFO]: <Ventro_> yo
+[15:57:38] [Server thread/INFO]: <Ventro_> where ru?
+[15:57:39] [Server thread/INFO]: ElEcTrOnIc_FoOf was slain by Spider
+[15:57:43] [Server thread/INFO]: <botnumberone4> keep going
+[15:57:47] [Server thread/INFO]: <botnumberone4> ill tell u when ur aboc
+[15:57:50] [Server thread/INFO]: <Ventro_> k
+[15:57:54] [Server thread/INFO]: <botnumberone4> now dig
+[15:57:58] [Server thread/INFO]: <botnumberone4> bro
+[15:57:59] [Server thread/INFO]: <Ventro_> I SEE
+[15:58:01] [Server thread/INFO]: <botnumberone4> too back
+[15:58:23] [Server thread/INFO]: <ElEcTrOnIc_FoOf> anybody have xtra iron
+[15:58:28] [Server thread/INFO]: <ElEcTrOnIc_FoOf> just 3
+[15:58:31] [Server thread/INFO]: <ElEcTrOnIc_FoOf> ?
+[15:58:35] [Server thread/INFO]: <ElEcTrOnIc_FoOf> for pick
+[15:58:38] [Server thread/INFO]: <ElEcTrOnIc_FoOf> plz daddies
+[15:58:58] [Server thread/INFO]: <Ventro_> wher r u?
+[15:59:05] [Server thread/INFO]: <ElEcTrOnIc_FoOf> whop
+[15:59:19] [Server thread/INFO]: ElEcTrOnIc_FoOf was slain by Spider
+[15:59:27] [Server thread/INFO]: <ElEcTrOnIc_FoOf> vo;a;ge
+[15:59:34] [Server thread/INFO]: <Ventro_> andrew coords
+[15:59:42] [Server thread/INFO]: <botnumberone4> yo i got trident
+[15:59:46] [Server thread/INFO]: <botnumberone4> right under u
+[15:59:48] [Server thread/INFO]: <Ventro_> NICE
+[15:59:53] [Server thread/INFO]: <Ventro_> do u see me?
+[16:00:14] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[16:00:14] [Server thread/INFO]: botnumberone4 left the game
+[16:00:50] [Server thread/INFO]: Ventro_ has made the advancement [Minecraft: Trial(s) Edition]
+[16:01:22] [Server thread/INFO]: <ElEcTrOnIc_FoOf> zombies r following me chat is this rizz
+[16:01:25] [Server thread/INFO]: ElEcTrOnIc_FoOf was slain by Zombie
+[16:02:05] [Server thread/INFO]: ElEcTrOnIc_FoOf lost connection: Timed out
+[16:02:05] [Server thread/INFO]: ElEcTrOnIc_FoOf left the game
+[16:02:32] [User Authenticator #40/INFO]: UUID of player ElEcTrOnIc_FoOf is 1c08df7f-2dbd-42b2-8ab9-345ff2518937
+[16:02:32] [Server thread/INFO]: ElEcTrOnIc_FoOf[/12.23.20.238:17252] logged in with entity id 74842 at (73.0903327444601, 67.0, -185.30000001192093)
+[16:02:32] [Server thread/INFO]: ElEcTrOnIc_FoOf joined the game
+[16:02:46] [Server thread/INFO]: Ventro_ was impaled on a stalagmite
+[16:02:53] [Server thread/INFO]: <ElEcTrOnIc_FoOf> ur a nigger
+[16:03:51] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[16:03:51] [Server thread/INFO]: Ventro_ left the game
+[16:03:54] [User Authenticator #41/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[16:03:58] [Server thread/INFO]: botnumberone4[/76.102.133.203:58986] logged in with entity id 75947 at (1637.9127039248317, -21.0, 296.67522112393226)
+[16:03:58] [Server thread/INFO]: botnumberone4 joined the game
+[16:04:01] [Server thread/INFO]: <ElEcTrOnIc_FoOf> yo
+[16:04:04] [Server thread/INFO]: <ElEcTrOnIc_FoOf> aksher died
+[16:04:06] [Server thread/INFO]: <botnumberone4> how
+[16:04:12] [Server thread/INFO]: <ElEcTrOnIc_FoOf> stalagemite
+[16:04:15] [Server thread/INFO]: <botnumberone4> lol
+[16:04:22] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[16:04:22] [Server thread/INFO]: botnumberone4 left the game
+[16:04:22] [Server thread/INFO]: <ElEcTrOnIc_FoOf> bro u suck
+[16:04:26] [Server thread/INFO]: <ElEcTrOnIc_FoOf> traitor
+[16:04:38] [Server thread/INFO]: ElEcTrOnIc_FoOf lost connection: Disconnected
+[16:04:38] [Server thread/INFO]: ElEcTrOnIc_FoOf left the game
+[16:04:53] [User Authenticator #42/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[16:04:54] [Server thread/INFO]: botnumberone4[/76.102.133.203:59009] logged in with entity id 76332 at (1642.5517983008071, -28.0, 309.8379249530698)
+[16:04:54] [Server thread/INFO]: botnumberone4 joined the game
+[16:06:08] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:06:09] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:06:09] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:10:05] [Server thread/INFO]: botnumberone4 has made the advancement [Cover Me with Diamonds]
+[16:11:45] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[16:11:45] [Server thread/INFO]: botnumberone4 left the game
+[16:12:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:16:17] [User Authenticator #43/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[16:16:18] [Server thread/INFO]: botnumberone4[/76.102.133.203:59071] logged in with entity id 78318 at (1640.4585883832665, -14.559007493331478, 233.30000001192093)
+[16:16:18] [Server thread/INFO]: botnumberone4 joined the game
+[16:16:34] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:16:35] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:21:13] [Server thread/WARN]: botnumberone4 moved wrongly!
+[16:23:36] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[16:23:36] [Server thread/INFO]: botnumberone4 left the game
+[16:24:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:50:28] [User Authenticator #44/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[16:50:28] [Server thread/INFO]: whattyyuuu[/73.15.221.53:55693] logged in with entity id 80414 at (211.5510357587744, 54.0, -162.07862342574376)
+[16:50:28] [Server thread/INFO]: whattyyuuu joined the game
+[16:50:56] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[16:50:56] [Server thread/INFO]: whattyyuuu left the game
+[16:51:10] [User Authenticator #45/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[16:51:10] [Server thread/INFO]: whattyyuuu[/73.15.221.53:55711] logged in with entity id 80644 at (199.23611392959174, 54.0, -149.4841127129657)
+[16:51:10] [Server thread/INFO]: whattyyuuu joined the game
+[16:52:11] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[16:52:11] [Server thread/INFO]: whattyyuuu left the game
+[16:52:44] [User Authenticator #46/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[16:52:45] [Server thread/INFO]: whattyyuuu[/73.15.221.53:55742] logged in with entity id 80959 at (146.30000001192093, 44.0, -142.3584870708046)
+[16:52:45] [Server thread/INFO]: whattyyuuu joined the game
+[16:52:52] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[16:52:52] [Server thread/INFO]: whattyyuuu left the game
+[16:53:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:55:35] [User Authenticator #47/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[16:55:35] [Server thread/INFO]: whattyyuuu[/73.15.221.53:55794] logged in with entity id 81169 at (144.37734934086626, 45.0, -146.17539628000858)
+[16:55:35] [Server thread/INFO]: whattyyuuu joined the game
+[16:59:02] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[16:59:02] [Server thread/INFO]: whattyyuuu left the game
+[16:59:26] [User Authenticator #48/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[16:59:26] [Server thread/INFO]: whattyyuuu[/73.15.221.53:55857] logged in with entity id 81935 at (-0.9037545042145745, 53.0, -42.14012828659408)
+[16:59:26] [Server thread/INFO]: whattyyuuu joined the game
+[16:59:43] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[16:59:43] [Server thread/INFO]: whattyyuuu left the game
+[17:00:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:19:22] [User Authenticator #49/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[17:19:22] [Server thread/INFO]: whattyyuuu[/73.15.221.53:56088] logged in with entity id 82118 at (-1.0842275934037418, 53.0, -41.86528946355387)
+[17:19:22] [Server thread/INFO]: whattyyuuu joined the game
+[17:29:08] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[17:29:08] [Server thread/INFO]: whattyyuuu left the game
+[17:30:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:38:36] [User Authenticator #50/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[17:38:36] [Server thread/INFO]: whattyyuuu[/73.15.221.53:56352] logged in with entity id 84005 at (181.08124772167253, 90.9375, -137.66710193411532)
+[17:38:36] [Server thread/INFO]: whattyyuuu joined the game
+[17:38:39] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[17:38:39] [Server thread/INFO]: whattyyuuu left the game
+[17:39:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:44:47] [User Authenticator #51/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[17:44:48] [Server thread/INFO]: whattyyuuu[/73.15.221.53:56439] logged in with entity id 84261 at (181.9855679028926, 90.9375, -138.3050754806486)
+[17:44:48] [Server thread/INFO]: whattyyuuu joined the game
+[17:51:06] [Server thread/WARN]: whattyyuuu moved too quickly! 9.952073008995058,-1.1661092609382138,0.6675191006925729
+[18:01:00] [Server thread/INFO]: whattyyuuu has made the advancement [Eye Spy]
+[18:05:58] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[18:05:58] [Server thread/INFO]: whattyyuuu left the game
+[18:06:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:14:55] [User Authenticator #52/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[18:14:56] [Server thread/INFO]: whattyyuuu[/73.15.221.53:56865] logged in with entity id 91303 at (1537.0761487860304, -1.0, 528.6999999880791)
+[18:14:56] [Server thread/INFO]: whattyyuuu joined the game
+[18:33:22] [Server thread/INFO]: whattyyuuu has made the advancement [The End?]
+[18:33:25] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:33:25] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[18:33:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[18:39:53] [Server thread/INFO]: whattyyuuu has made the advancement [Take Aim]
+[18:44:57] [Server thread/INFO]: whattyyuuu has reached the goal [The Next Generation]
+[18:55:19] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[18:55:19] [Server thread/INFO]: whattyyuuu left the game
+[18:56:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:32:18] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down

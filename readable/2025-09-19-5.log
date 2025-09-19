@@ -1,0 +1,263 @@
+[12:33:44] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[12:33:45] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.1 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[12:33:45] [main/INFO]: Loading 92 mods:
+	- anvilrestoration 2.4
+	- architectury 17.0.8
+	- banhammer 0.14.1+1.21.8
+	   |-- com_mysql_mysql-connector-j 9.3.0
+	   |-- org_postgresql_postgresql 42.7.7
+	   |-- org_xerial_sqlite-jdbc 3.50.3.0
+	   \-- sgui 1.10.0+1.21.6
+	- betterthanmending 2.2.5
+	- carpet 1.4.177+v250630
+	- cobweb 1.3.3
+	- collective 8.4
+	- disconnect-packet-fix 2.0.0
+	- economycraft 1.2.0
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-essentials 1.4.4+1.21.6-rc1
+	   |-- common-protection-api 1.0.0
+	   |-- message-api 0.3.2+1.21.5
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- sgui 1.10.0+1.21.6
+	- fabric-language-kotlin 1.13.6+kotlin.2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.29.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.7.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.9.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.9.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.9.0
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- firstjoinmessage 3.8
+	- forgeconfigapiport 21.8.1
+	   |-- com_electronwill_night-config_core 3.8.3
+	   \-- com_electronwill_night-config_toml 3.8.3
+	- fsit 2.8.0+mc1.21.6
+	- grindenchantments 4.0.1+1.21.6-rc1
+	   \-- codec-config-api 3.0.2+1.21.4
+	- harvest_with_ease 9.4.0
+	- invview 1.4.17-1.21.6+
+	   \-- sgui 1.10.0+1.21.6
+	- java 23
+	- lithium 0.18.0+mc1.21.8
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
+	- minecraft 1.21.8
+	- nochatreports 1.21.7-v2.14.0
+	- shulkerdropstwo 3.6
+	- vanilla-permissions 0.2.11+1.21.7
+	   \-- fabric-permissions-api-v0 0.4.1
+	- vanish 1.6.0+1.21.8
+	   |-- fabric-permissions-api-v0 0.4.1
+	   |-- placeholder-api 2.7.1+1.21.6
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- server_translations_api 2.5.1+1.21.5
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+	- youritemsaresafe 4.7
+[12:33:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[12:33:46] [main/INFO]: Compatibility level set to JAVA_16
+[12:33:46] [main/INFO]: Compatibility level set to JAVA_17
+[12:33:46] [main/INFO]: Compatibility level set to JAVA_21
+[12:33:46] [main/WARN]: Reference map 'economycraft-common-1.2.0_1.21.8-common-refmap.json' for economycraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:46] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:46] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:46] [main/WARN]: Reference map 'harvest_with_ease.refmap.json' for harvest_with_ease.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[12:33:46] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 1 override(s) found.
+[12:33:48] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[12:33:48] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[12:33:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[12:33:58] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[12:34:10] [main/INFO]: Loading Collective version 8.4.
+[12:34:10] [main/INFO]: Disconnect Packet Fix has started.
+[12:34:10] [main/INFO]: Loading essentials config
+[12:34:13] [main/INFO]: Loading vanish configuration...
+[12:34:14] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@bbe50be]
+[12:34:14] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[12:34:15] [main/INFO]: Loading configuration...
+[12:34:16] [main/ERROR]: Failed to store properties to file: server.properties
+[12:34:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:34:20] [Worker-Main-3/INFO]: Loaded Fabric Permissions
+[12:34:20] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[12:34:22] [main/INFO]: Loaded 1407 recipes
+[12:34:22] [main/INFO]: Loaded 1520 advancements
+[12:34:22] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 10 translation keys
+[12:34:23] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.385 ms
+[12:34:23] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
+[12:34:23] [Server thread/INFO]: [Grind Enchantments] Reading server config.
+[12:34:23] [Server thread/INFO]:         __    
+[12:34:23] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[12:34:23] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
+[12:34:23] [Server thread/INFO]: 
+[12:34:23] [Server thread/INFO]: Loading storage provider... [H2]
+[12:34:24] [Server thread/INFO]: Loading internal permission managers...
+[12:34:24] [Server thread/INFO]: Performing initial data load...
+[12:34:24] [Server thread/INFO]: Successfully enabled. (took 1175ms)
+[12:34:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[12:34:24] [Server thread/INFO]: Loading properties
+[12:34:24] [Server thread/INFO]: Default game type: SURVIVAL
+[12:34:24] [Server thread/INFO]: Generating keypair
+[12:34:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:34:25] [Server thread/INFO]: Using epoll channel type
+[12:34:25] [Server thread/INFO]: Preparing level "world"
+[12:34:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:34:37] [Worker-Main-7/INFO]: Preparing spawn area: 42%
+[12:34:38] [Server thread/INFO]: Time elapsed: 10869 ms
+[12:34:38] [Server thread/INFO]: Done (12.346s)! For help, type "help"
+[12:34:38] [Server thread/INFO]: Starting remote control listener
+[12:34:38] [Server thread/INFO]: Thread RCON Listener started
+[12:34:38] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[12:34:50] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[12:34:51] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[12:35:42] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:25:23] [User Authenticator #1/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[14:25:25] [Server thread/INFO]: whattyyuuu[/12.23.20.238:39641] logged in with entity id 26 at (188.29318851819022, 93.0, -137.18509396412014)
+[14:25:25] [Server thread/INFO]: whattyyuuu joined the game
+[14:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[14:25:40] [Server thread/WARN]: whattyyuuu moved too quickly! 7.740860240137891,-0.2522033402537289,-6.387971766725599
+[14:25:40] [Server thread/ERROR]: Encountered an unexpected exception
+java.util.ServiceConfigurationError: it.crystalnest.harvest_with_ease.platform.services.PlatformHelper: Error accessing configuration file
+	at java.base/java.util.ServiceLoader.fail(ServiceLoader.java:582) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.parse(ServiceLoader.java:1176) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.nextProviderClass(ServiceLoader.java:1209) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNextService(ServiceLoader.java:1224) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.hasNext(ServiceLoader.java:1269) ~[?:?]
+	at java.base/java.util.ServiceLoader$2.hasNext(ServiceLoader.java:1305) ~[?:?]
+	at java.base/java.util.ServiceLoader$3.hasNext(ServiceLoader.java:1387) ~[?:?]
+	at java.base/java.util.ServiceLoader.findFirst(ServiceLoader.java:1800) ~[?:?]
+	at knot/it.crystalnest.harvest_with_ease.platform.Services.load(Services.java:44) ~[harvest-with-ease-fabric-1.21.8-9.4.0.jar:?]
+	at knot/it.crystalnest.harvest_with_ease.platform.Services.<clinit>(Services.java:20) ~[harvest-with-ease-fabric-1.21.8-9.4.0.jar:?]
+	at knot/it.crystalnest.harvest_with_ease.handler.HarvestHandler.getValidHand(HarvestHandler.java:254) ~[harvest-with-ease-fabric-1.21.8-9.4.0.jar:?]
+	at knot/it.crystalnest.harvest_with_ease.handler.HarvestHandler.handle(HarvestHandler.java:77) ~[harvest-with-ease-fabric-1.21.8-9.4.0.jar:?]
+	at knot/it.crystalnest.harvest_with_ease.handler.FabricHarvestHandler.handle(FabricHarvestHandler.java:44) ~[harvest-with-ease-fabric-1.21.8-9.4.0.jar:?]
+	at knot/net.fabricmc.fabric.api.event.player.UseBlockCallback.lambda$static$0(UseBlockCallback.java:41) ~[fabric-events-interaction-v0-4.0+946bf4c32c-51a0ef01a458681e.jar:?]
+	at knot/net.minecraft.class_3225.handler$bai000$fabric-events-interaction-v0$interactBlock(class_3225.java:2085) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3225.method_14262(class_3225.java) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3244.method_12046(class_3244.java:1364) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_12547(class_2885.java:42) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2885.method_65081(class_2885.java:10) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2600.method_11072(class_2600.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:883) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:179) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:865) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_5383(class_1255.java:123) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:827) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+Caused by: java.nio.file.NoSuchFileException: /opt/minecraft/server/mods/harvest-with-ease-fabric-1.21.8-9.4.0.jar
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:56) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:172) ~[?:?]
+	at java.base/sun.nio.fs.LinuxFileSystemProvider.readAttributes(LinuxFileSystemProvider.java:99) ~[?:?]
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1865) ~[?:?]
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1512) ~[?:?]
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:744) ~[?:?]
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:254) ~[?:?]
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181) ~[?:?]
+	at java.base/java.util.jar.JarFile.<init>(JarFile.java:345) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.URLJarFile.<init>(URLJarFile.java:73) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.URLJarFile.getJarFile(URLJarFile.java:59) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.JarFileFactory.get(JarFileFactory.java:168) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.JarFileFactory.getOrCreate(JarFileFactory.java:91) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.JarURLConnection.connect(JarURLConnection.java:117) ~[?:?]
+	at java.base/sun.net.www.protocol.jar.JarURLConnection.getInputStream(JarURLConnection.java:160) ~[?:?]
+	at java.base/java.util.ServiceLoader$LazyClassPathLookupIterator.parse(ServiceLoader.java:1168) ~[?:?]
+	... 31 more
+[14:25:40] [Server thread/ERROR]: This crash report has been saved to: /opt/minecraft/server/crash-reports/crash-2025-09-19_14.25.40-server.txt
+[14:25:40] [Server thread/INFO]: Starting shutdown process...
+[14:25:40] [Server thread/INFO]: Closing storage...
+[14:25:40] [Server thread/INFO]: Goodbye!
+[14:25:40] [Server thread/INFO]: Stopping server
+[14:25:40] [Server thread/INFO]: Saving players
+[14:25:40] [Server thread/INFO]: whattyyuuu lost connection: Server closed
+[14:25:40] [Server thread/INFO]: whattyyuuu left the game
+[14:25:40] [Server thread/INFO]: Saving worlds
+[14:25:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:25:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:25:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:25:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:25:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:25:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:25:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:25:44] [Server thread/INFO]: Thread RCON Listener stopped

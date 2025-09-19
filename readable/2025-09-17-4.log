@@ -1,0 +1,90 @@
+[21:47:58] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:47:59] [main/INFO]: Loading 67 mods:
+	- antixray 1.4.10
+	   \-- com_moandjiezana_toml_toml4j 0.7.2
+	- architectury 17.0.8
+	- banhammer 0.14.1+1.21.8
+	   |-- com_mysql_mysql-connector-j 9.3.0
+	   |-- org_postgresql_postgresql 42.7.7
+	   |-- org_xerial_sqlite-jdbc 3.50.3.0
+	   \-- sgui 1.10.0+1.21.6
+	- carpet 1.4.177+v250630
+	- collective 8.4
+	- disconnect-packet-fix 2.0.0
+	- economycraft 1.2.0
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-essentials 1.4.4+1.21.6-rc1
+	   |-- common-protection-api 1.0.0
+	   |-- message-api 0.3.2+1.21.5
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- sgui 1.10.0+1.21.6
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- firstjoinmessage 3.8
+	- invview 1.4.17-1.21.6+
+	   \-- sgui 1.10.0+1.21.6
+	- java 23
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
+	- minecraft 1.21.8
+	- nochatreports 1.21.7-v2.14.0
+	- vanilla-permissions 0.2.11+1.21.7
+	   \-- fabric-permissions-api-v0 0.4.1
+	- vanish 1.6.0+1.21.8
+	   |-- fabric-permissions-api-v0 0.4.1
+	   |-- placeholder-api 2.7.1+1.21.6
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- server_translations_api 2.5.1+1.21.5
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+[21:48:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:48:00] [main/INFO]: Compatibility level set to JAVA_17
+[21:48:00] [main/INFO]: Compatibility level set to JAVA_21
+[21:48:00] [main/WARN]: Reference map 'economycraft-common-1.2.0_1.21.8-common-refmap.json' for economycraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:48:02] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[21:48:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:48:10] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[21:48:22] [main/INFO]: Successfully initialized antixray for fabric
+[21:48:22] [main/INFO]: Loading Collective version 8.4.

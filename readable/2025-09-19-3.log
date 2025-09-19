@@ -1,0 +1,23 @@
+[12:29:31] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[12:29:32] [main/WARN]: Mod resolution failed
+[12:29:32] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE fsit 2.8.0+mc1.21.6 {depends fabric-language-kotlin @ [*]}, ROOT_FORCELOAD_SINGLE fsit 2.8.0+mc1.21.6]
+[12:29:32] [main/INFO]: Reason: [HARD_DEP fsit 2.8.0+mc1.21.6 {depends fabric-language-kotlin @ [*]}, HARD_DEP harvest_with_ease 9.4.0 {depends cobweb @ [^1.3.3]}, HARD_DEP harvest_with_ease 9.4.0 {depends forgeconfigapiport @ [^21.6.0]}]
+[12:29:32] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-sound-api-v1, fabric-screen-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo]
+[12:29:32] [main/INFO]: Fix: add [add:fabric-language-kotlin 1 ([(-∞,∞)]), add:cobweb 1.3.3 ([[1.3.3,2-)]), add:forgeconfigapiport 21.6.0 ([[21.6.0,22-)])], remove [], replace []
+[12:29:32] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install fabric-language-kotlin, any version.
+	 - Install cobweb, any version between 1.3.3 (inclusive) and 2- (exclusive).
+	 - Install forgeconfigapiport, any version between 21.6.0 (inclusive) and 22- (exclusive).
+More details:
+	 - Mod 'FSit' (fsit) 2.8.0+mc1.21.6 requires any version of fabric-language-kotlin, which is missing!
+	 - Mod 'Harvest with ease' (harvest_with_ease) 9.4.0 requires any version between 1.3.3 (inclusive) and 2- (exclusive) of cobweb, which is missing!
+	 - Mod 'Harvest with ease' (harvest_with_ease) 9.4.0 requires any version between 21.6.0 (inclusive) and 22- (exclusive) of forgeconfigapiport, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.0]

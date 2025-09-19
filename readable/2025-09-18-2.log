@@ -1,0 +1,450 @@
+[19:35:54] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[19:35:55] [main/INFO]: Loading 66 mods:
+	- architectury 17.0.8
+	- banhammer 0.14.1+1.21.8
+	   |-- com_mysql_mysql-connector-j 9.3.0
+	   |-- org_postgresql_postgresql 42.7.7
+	   |-- org_xerial_sqlite-jdbc 3.50.3.0
+	   \-- sgui 1.10.0+1.21.6
+	- carpet 1.4.177+v250630
+	- collective 8.4
+	- disconnect-packet-fix 2.0.0
+	- economycraft 1.2.0
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-essentials 1.4.4+1.21.6-rc1
+	   |-- common-protection-api 1.0.0
+	   |-- message-api 0.3.2+1.21.5
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- sgui 1.10.0+1.21.6
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- firstjoinmessage 3.8
+	- invview 1.4.17-1.21.6+
+	   \-- sgui 1.10.0+1.21.6
+	- java 23
+	- lithium 0.18.0+mc1.21.8
+	- luckperms 5.5.10
+	   \-- fabric-permissions-api-v0 0.4.1
+	- minecraft 1.21.8
+	- nochatreports 1.21.7-v2.14.0
+	- vanilla-permissions 0.2.11+1.21.7
+	   \-- fabric-permissions-api-v0 0.4.1
+	- vanish 1.6.0+1.21.8
+	   |-- fabric-permissions-api-v0 0.4.1
+	   |-- placeholder-api 2.7.1+1.21.6
+	   |-- player-data-api 0.8.0+1.21.6
+	   \-- server_translations_api 2.5.1+1.21.5
+	        \-- packet_tweaker 0.6.0-pre.1+1.21.2-pre3
+	- worldedit 7.3.16+cbf4bd5
+	   \-- worldeditcui_protocol 4.0.2
+[19:35:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/opt/minecraft/server/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:35:56] [main/INFO]: Compatibility level set to JAVA_16
+[19:35:56] [main/INFO]: Compatibility level set to JAVA_17
+[19:35:56] [main/INFO]: Compatibility level set to JAVA_21
+[19:35:56] [main/WARN]: Reference map 'economycraft-common-1.2.0_1.21.8-common-refmap.json' for economycraft.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:35:56] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 1 override(s) found.
+[19:35:58] [main/INFO]: Force-enabling mixin 'compat.worldedit.LevelChunkMixin' as rule 'mixin.compat.worldedit' (added by mods [lithium]) enables it
+[19:35:58] [main/WARN]: [carpet] detected, disabling UPDATE mixin com.sk89q.worldedit.fabric.mixin.MixinLevelChunkSetBlockHook
+[19:35:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[19:36:08] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[19:36:19] [main/INFO]: Loading Collective version 8.4.
+[19:36:19] [main/INFO]: Disconnect Packet Fix has started.
+[19:36:20] [main/INFO]: Loading essentials config
+[19:36:20] [main/INFO]: Loading vanish configuration...
+[19:36:21] [main/INFO]: Got request to register class com.sk89q.worldedit.fabric.FabricPlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@59affebc]
+[19:36:21] [main/INFO]: WorldEdit for Fabric (version 7.3.16+cbf4bd5) is loaded
+[19:36:22] [main/INFO]: Loading configuration...
+[19:36:23] [main/ERROR]: Failed to store properties to file: server.properties
+[19:36:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:36:24] [main/WARN]: Missing data pack antixray
+[19:36:27] [Worker-Main-3/INFO]: Loaded Fabric Permissions
+[19:36:28] [Worker-Main-3/INFO]: Registering commands with com.sk89q.worldedit.fabric.FabricPlatform
+[19:36:29] [main/INFO]: Loaded 1407 recipes
+[19:36:29] [main/INFO]: Loaded 1520 advancements
+[19:36:29] [ForkJoinPool.commonPool-worker-1/INFO]: Loaded 10 translation keys
+[19:36:29] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 3.824 ms
+[19:36:30] [Server thread/INFO]: BanHammer connected successfully to SQLite database!
+[19:36:30] [Server thread/INFO]:         __    
+[19:36:30] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[19:36:30] [Server thread/INFO]:   |___ |      Running on Fabric - fabric@0.131.0+1.21.8
+[19:36:30] [Server thread/INFO]: 
+[19:36:31] [Server thread/INFO]: Loading storage provider... [H2]
+[19:36:31] [Server thread/INFO]: Loading internal permission managers...
+[19:36:31] [Server thread/INFO]: Performing initial data load...
+[19:36:32] [Server thread/INFO]: Successfully enabled. (took 1527ms)
+[19:36:32] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:36:32] [Server thread/INFO]: Loading properties
+[19:36:32] [Server thread/INFO]: Default game type: SURVIVAL
+[19:36:32] [Server thread/INFO]: Generating keypair
+[19:36:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:36:32] [Server thread/INFO]: Using epoll channel type
+[19:36:32] [Server thread/INFO]: Preparing level "world"
+[19:36:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:36:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:36:42] [Server thread/INFO]: Time elapsed: 7842 ms
+[19:36:42] [Server thread/INFO]: Done (9.339s)! For help, type "help"
+[19:36:42] [Server thread/INFO]: Starting remote control listener
+[19:36:42] [Server thread/INFO]: Thread RCON Listener started
+[19:36:42] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[19:37:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:42:31] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[19:42:32] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[19:50:44] [User Authenticator #1/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[19:50:46] [Server thread/INFO]: whattyyuuu[/73.15.221.53:58076] logged in with entity id 10 at (141.46967694035249, 83.0, -174.02479721543384)
+[19:50:46] [Server thread/INFO]: whattyyuuu joined the game
+[19:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20:00:17] [Server thread/INFO]: whattyyuuu has made the advancement [Remote Getaway]
+[20:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[20:13:34] [User Authenticator #2/INFO]: UUID of player MythicSorcerer is b0df92ce-dce1-4341-9b16-c8a27f115dac
+[20:13:35] [Server thread/INFO]: MythicSorcerer[/73.241.51.116:64619] logged in with entity id 5415 at (617.7980889906518, 69.0, 59.303373959728724)
+[20:13:35] [Server thread/INFO]: MythicSorcerer joined the game
+[20:13:37] [Server thread/INFO]: <whattyyuuu> hi
+[20:13:48] [Server thread/INFO]: <whattyyuuu> hi
+[20:14:07] [Server thread/INFO]: MythicSorcerer lost connection: Disconnected
+[20:14:07] [Server thread/INFO]: MythicSorcerer left the game
+[20:14:41] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[20:14:41] [Server thread/INFO]: whattyyuuu left the game
+[20:15:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:16:31] [User Authenticator #3/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[20:16:32] [Server thread/INFO]: whattyyuuu[/73.15.221.53:58497] logged in with entity id 5793 at (1093.0170967568274, 59.0, -1491.7826706013025)
+[20:16:32] [Server thread/INFO]: whattyyuuu joined the game
+[20:16:40] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[20:16:40] [Server thread/INFO]: whattyyuuu left the game
+[20:17:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:25:49] [User Authenticator #4/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[20:25:50] [Server thread/INFO]: Ventro_[/67.188.35.89:63260] logged in with entity id 5875 at (-2.4773983272701874, 63.0, 14.699999988079071)
+[20:25:50] [Server thread/INFO]: Ventro_ joined the game
+[20:26:26] [Server thread/INFO]: Ventro_ drowned
+[20:26:49] [Server thread/INFO]: Ventro_ was slain by Zombie
+[20:29:30] [Server thread/INFO]: Ventro_ tried to swim in lava
+[20:29:50] [Server thread/INFO]: Ventro_ fell from a high place
+[20:31:51] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[20:31:51] [Server thread/INFO]: Ventro_ left the game
+[20:32:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:35:17] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[20:36:47] [Server thread/INFO]: [Rcon: Summoned new Pig]
+[20:56:25] [User Authenticator #5/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[20:56:26] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59118] logged in with entity id 8453 at (1093.0170967568274, 59.0, -1491.7826706013025)
+[20:56:26] [Server thread/INFO]: whattyyuuu joined the game
+[20:56:30] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[20:56:30] [Server thread/INFO]: whattyyuuu left the game
+[20:57:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:03:20] [User Authenticator #6/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:03:21] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59283] logged in with entity id 8539 at (1093.5615563814024, 59.0, -1491.1464577850631)
+[21:03:21] [Server thread/INFO]: whattyyuuu joined the game
+[21:03:24] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:03:24] [Server thread/INFO]: whattyyuuu left the game
+[21:04:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:04:36] [User Authenticator #7/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[21:04:37] [Server thread/INFO]: Ventro_[/67.188.35.89:63530] logged in with entity id 8627 at (7.669043623828491, 64.0, 11.230120405401552)
+[21:04:37] [Server thread/INFO]: Ventro_ joined the game
+[21:06:09] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[21:06:09] [Server thread/INFO]: Ventro_ left the game
+[21:07:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:10:44] [User Authenticator #8/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:10:44] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59502] logged in with entity id 9077 at (1093.5615563814024, 59.0, -1491.1464577850631)
+[21:10:44] [Server thread/INFO]: whattyyuuu joined the game
+[21:12:29] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:12:29] [Server thread/INFO]: whattyyuuu left the game
+[21:13:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:17:00] [User Authenticator #9/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:17:01] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59651] logged in with entity id 9444 at (685.5595547623294, 59.0, -1428.9084488740364)
+[21:17:01] [Server thread/INFO]: whattyyuuu joined the game
+[21:19:07] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:19:07] [Server thread/INFO]: whattyyuuu left the game
+[21:19:32] [User Authenticator #10/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:19:32] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59696] logged in with entity id 9751 at (604.6429208524589, 58.0, -1277.8642672594497)
+[21:19:32] [Server thread/INFO]: whattyyuuu joined the game
+[21:21:48] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:21:48] [Server thread/INFO]: whattyyuuu left the game
+[21:22:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:23:29] [User Authenticator #11/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:23:29] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59764] logged in with entity id 10009 at (578.5886679555016, 61.0, -1379.804451409241)
+[21:23:29] [Server thread/INFO]: whattyyuuu joined the game
+[21:24:50] [Server thread/INFO]: whattyyuuu has made the advancement [The City at the End of the Game]
+[21:25:19] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:25:19] [Server thread/INFO]: whattyyuuu left the game
+[21:25:32] [User Authenticator #12/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:25:32] [Server thread/INFO]: whattyyuuu[/73.15.221.53:59801] logged in with entity id 10348 at (363.96025393393546, 67.5, -1520.500572971485)
+[21:25:32] [Server thread/INFO]: whattyyuuu joined the game
+[21:26:46] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:26:46] [Server thread/INFO]: whattyyuuu left the game
+[21:27:46] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:45:01] [User Authenticator #13/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:45:01] [Server thread/INFO]: whattyyuuu[/73.15.221.53:60030] logged in with entity id 10526 at (355.0769214126397, 106.49797395169554, -1533.8101609908997)
+[21:45:01] [Server thread/INFO]: whattyyuuu joined the game
+[21:45:25] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:45:25] [Server thread/INFO]: whattyyuuu left the game
+[21:46:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:48:23] [User Authenticator #14/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:48:23] [Server thread/INFO]: whattyyuuu[/73.15.221.53:60102] logged in with entity id 10618 at (369.00853877171244, 105.0, -1518.779861214904)
+[21:48:23] [Server thread/INFO]: whattyyuuu joined the game
+[21:55:48] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:55:48] [Server thread/INFO]: whattyyuuu left the game
+[21:56:48] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:57:19] [User Authenticator #15/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:57:19] [Server thread/INFO]: whattyyuuu[/73.15.221.53:60245] logged in with entity id 12167 at (181.5066348414619, 83.0, -134.43767600958753)
+[21:57:19] [Server thread/INFO]: whattyyuuu joined the game
+[21:57:55] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[21:57:55] [Server thread/INFO]: whattyyuuu left the game
+[21:58:00] [User Authenticator #16/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[21:58:00] [Server thread/INFO]: whattyyuuu[/73.15.221.53:60259] logged in with entity id 12451 at (174.90137071505262, 81.9375, -138.95466676853508)
+[21:58:00] [Server thread/INFO]: whattyyuuu joined the game
+[21:58:04] [User Authenticator #17/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[21:58:05] [Server thread/INFO]: Ventro_[/67.188.35.89:64613] logged in with entity id 12708 at (4.794126620484157, 64.0, -15.921024022656436)
+[21:58:05] [Server thread/INFO]: Ventro_ joined the game
+[21:58:08] [Server thread/INFO]: <Ventro_> yo
+[21:58:10] [Server thread/INFO]: <whattyyuuu> hi
+[21:58:18] [Server thread/INFO]: <Ventro_> gimme gear
+[21:58:23] [Server thread/INFO]: <whattyyuuu> cro
+[21:58:27] [Server thread/INFO]: <whattyyuuu> u have 64 dims
+[21:58:32] [Server thread/INFO]: <Ventro_> bot trappedme
+[21:58:38] [Server thread/INFO]: <whattyyuuu> bruhhhh
+[21:59:35] [Server thread/INFO]: <Ventro_> gimme stuff
+[21:59:50] [Server thread/INFO]: <whattyyuuu> me brok
+[21:59:53] [Server thread/INFO]: <Ventro_> cap
+[22:00:14] [Server thread/INFO]: <whattyyuuu> no cap
+[22:00:38] [Server thread/INFO]: <Ventro_> wher r u
+[22:00:42] [Server thread/INFO]: <whattyyuuu> base
+[22:00:55] [Server thread/INFO]: <Ventro_> AHAHHAHAH
+[22:00:59] [Server thread/INFO]: <Ventro_> thx
+[22:01:00] [Server thread/INFO]: <Ventro_> food
+[22:01:01] [Server thread/INFO]: <whattyyuuu> come
+[22:01:11] [Server thread/INFO]: <Ventro_> FOOD
+[22:01:21] [Server thread/INFO]: <Ventro_> thx
+[22:01:22] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[22:01:22] [Server thread/INFO]: whattyyuuu left the game
+[22:02:14] [User Authenticator #18/INFO]: UUID of player whattyyuuu is 8eced167-5fbf-4967-a62b-2a48af7c4ec5
+[22:02:15] [Server thread/INFO]: whattyyuuu[/73.15.221.53:60326] logged in with entity id 14173 at (182.255001354511, 83.0, -135.52198640556028)
+[22:02:15] [Server thread/INFO]: whattyyuuu joined the game
+[22:02:18] [Server thread/INFO]: <Ventro_> yoo
+[22:02:20] [Server thread/INFO]: <whattyyuuu> hi
+[22:02:24] [Server thread/INFO]: <Ventro_> sutff
+[22:02:29] [Server thread/INFO]: <whattyyuuu> DONT HAVE
+[22:02:37] [Server thread/INFO]: <Ventro_> gay nigga
+[22:02:37] [Server thread/INFO]: whattyyuuu lost connection: Disconnected
+[22:02:37] [Server thread/INFO]: whattyyuuu left the game
+[22:07:15] [Server thread/INFO]: Villager class_1646['Villager'/12466, l='ServerLevel[world]', x=171.60, y=83.00, z=-142.30] died, message: 'Villager was slain by Zombie'
+[22:10:36] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[22:10:36] [Server thread/INFO]: Ventro_ left the game
+[22:10:36] [Server thread/WARN]: handleDisconnection() called twice
+[22:10:48] [User Authenticator #19/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[22:10:49] [Server thread/INFO]: Ventro_[/67.188.35.89:64678] logged in with entity id 16457 at (141.4637385389816, 82.0, -176.86232134356288)
+[22:10:49] [Server thread/INFO]: Ventro_ joined the game
+[22:10:50] [Server thread/INFO]: <Ventro_> yo
+[22:15:19] [Server thread/INFO]: botnumberone4 (/76.102.133.203:60414) lost connection: Disconnected
+[22:16:07] [User Authenticator #20/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:16:08] [Server thread/INFO]: botnumberone4[/76.102.133.203:60497] logged in with entity id 17371 at (1644.4155531165109, 10.0, 245.65457025301964)
+[22:16:08] [Server thread/INFO]: botnumberone4 joined the game
+[22:17:15] [Server thread/INFO]: <Ventro_> yo
+[22:17:20] [Server thread/INFO]: <Ventro_> my stuff
+[22:17:32] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:20:25] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:20:25] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:20:28] [Server thread/INFO]: <botnumberone4> brb
+[22:20:29] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[22:20:29] [Server thread/INFO]: botnumberone4 left the game
+[22:22:02] [User Authenticator #21/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:22:03] [Server thread/INFO]: botnumberone4[/76.102.133.203:60614] logged in with entity id 20621 at (1677.9703855428734, -4.0, 235.59015481344846)
+[22:22:03] [Server thread/INFO]: botnumberone4 joined the game
+[22:22:07] [Server thread/INFO]: <Ventro_> yo
+[22:22:13] [Server thread/INFO]: <Ventro_> in still far
+[22:22:16] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:22:16] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:23:10] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[22:23:10] [Server thread/INFO]: botnumberone4 left the game
+[22:23:35] [User Authenticator #22/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:23:35] [Server thread/INFO]: botnumberone4[/76.102.133.203:60629] logged in with entity id 22068 at (1651.1351402144649, 9.0, 244.37666719429674)
+[22:23:35] [Server thread/INFO]: botnumberone4 joined the game
+[22:23:38] [Server thread/INFO]: <Ventro_> yo
+[22:23:44] [Server thread/INFO]: <Ventro_> see village
+[22:24:20] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[22:24:20] [Server thread/INFO]: Ventro_ left the game
+[22:24:27] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[22:24:27] [Server thread/INFO]: botnumberone4 left the game
+[22:25:27] [User Authenticator #23/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:25:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:25:27] [Server thread/INFO]: botnumberone4[/76.102.133.203:60659] logged in with entity id 22531 at (1656.699999988079, 10.0, 239.03840835249864)
+[22:25:27] [Server thread/INFO]: botnumberone4 joined the game
+[22:25:49] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:25:50] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:26:22] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[22:26:22] [Server thread/INFO]: botnumberone4 left the game
+[22:26:24] [User Authenticator #24/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[22:26:24] [Server thread/INFO]: Ventro_[/67.188.35.89:64749] logged in with entity id 23024 at (1514.0902193082734, 59.15554465788385, 237.2167233690854)
+[22:26:24] [Server thread/INFO]: Ventro_ joined the game
+[22:26:29] [Server thread/INFO]: Ventro_ drowned
+[22:27:54] [Server thread/INFO]: Ventro_ lost connection: Timed out
+[22:27:54] [Server thread/INFO]: Ventro_ left the game
+[22:28:18] [User Authenticator #25/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[22:28:18] [Server thread/INFO]: Ventro_[/67.188.35.89:64796] logged in with entity id 23903 at (-68.00548722851913, 64.0, 8.677445107673583)
+[22:28:18] [Server thread/INFO]: Ventro_ joined the game
+[22:40:10] [User Authenticator #26/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:40:11] [Server thread/INFO]: botnumberone4[/76.102.133.203:60836] logged in with entity id 26842 at (1655.4877908215003, 11.0, 235.50193409205647)
+[22:40:11] [Server thread/INFO]: botnumberone4 joined the game
+[22:40:14] [Server thread/INFO]: <botnumberone4> hay
+[22:40:15] [Server thread/INFO]: <botnumberone4> gay
+[22:40:17] [Server thread/INFO]: <Ventro_> yo
+[22:40:20] [Server thread/INFO]: <Ventro_> can u come to me?
+[22:40:34] [Server thread/INFO]: <Ventro_> hello>
+[22:40:39] [Server thread/INFO]: <Ventro_> ?
+[22:40:59] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:41:03] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:41:37] [Server thread/INFO]: <botnumberone4> i got eff 4 book
+[22:41:40] [Server thread/INFO]: <Ventro_> bet
+[22:41:42] [Server thread/INFO]: <Ventro_> come to me
+[22:41:44] [Server thread/INFO]: <botnumberone4> for me
+[22:41:46] [Server thread/INFO]: <Ventro_> plsw
+[22:41:47] [Server thread/INFO]: <Ventro_> k
+[22:41:51] [Server thread/INFO]: <botnumberone4> i cant come ot u rn
+[22:41:53] [Server thread/INFO]: <botnumberone4> i drank potion
+[22:41:54] [Server thread/INFO]: <Ventro_> just give my dims back
+[22:41:55] [Server thread/INFO]: <Ventro_> bro
+[22:42:03] [Server thread/INFO]: <Ventro_> my amour though
+[22:42:06] [Server thread/INFO]: <Ventro_> the one u crafted
+[22:42:12] [Server thread/INFO]: <botnumberone4> not damaged
+[22:42:19] [Server thread/INFO]: <Ventro_> buts its mine
+[22:44:28] [Server thread/INFO]: <botnumberone4> yes i got 2
+[22:44:31] [Server thread/INFO]: <Ventro_> wut?
+[22:44:36] [Server thread/INFO]: <botnumberone4> ominous
+[22:44:41] [Server thread/INFO]: <Ventro_> wait for me
+[22:44:43] [Server thread/INFO]: <Ventro_> pls
+[22:44:44] [Server thread/INFO]: <botnumberone4> no
+[22:44:49] [Server thread/INFO]: <Ventro_> fine
+[22:44:54] [Server thread/INFO]: <botnumberone4> u tried to kill me
+[22:44:54] [Server thread/INFO]: <Ventro_> give my amour back tough
+[22:45:00] [Server thread/INFO]: <Ventro_> when?
+[22:45:04] [Server thread/INFO]: <botnumberone4> yesterday
+[22:45:11] [Server thread/INFO]: <Ventro_> brio
+[22:45:15] [Server thread/INFO]: <Ventro_> we got over that
+[22:45:22] [Server thread/INFO]: <Ventro_> just give my amour back
+[22:45:37] [Server thread/INFO]: botnumberone4 has reached the goal [Revaulting]
+[22:46:05] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:46:05] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:46:05] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:47:13] [Server thread/INFO]: <botnumberone4> 3 bet
+[22:47:16] [Server thread/INFO]: <Ventro_> nice
+[22:47:23] [Server thread/INFO]: <botnumberone4> ill give u my notch
+[22:47:27] [Server thread/INFO]: <Ventro_> no
+[22:47:29] [Server thread/INFO]: <Ventro_> my armor
+[22:47:31] [Server thread/INFO]: <botnumberone4> yes both
+[22:47:33] [Server thread/INFO]: <Ventro_> k
+[22:47:40] [Server thread/INFO]: <Ventro_> i want a tridnet for myself too
+[22:47:46] [Server thread/INFO]: <Ventro_> riptide op
+[22:47:47] [Server thread/INFO]: <botnumberone4> ok ill try to get that
+[22:47:52] [Server thread/INFO]: <botnumberone4> i have riptide 2
+[22:47:59] [Server thread/INFO]: <Ventro_> ima grind for 3
+[22:48:48] [Server thread/WARN]: botnumberone4 moved wrongly!
+[22:49:36] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[22:49:36] [Server thread/INFO]: botnumberone4 left the game
+[22:49:54] [User Authenticator #27/INFO]: UUID of player botnumberone4 is f95c2d3e-3084-4639-9158-ced9315ba66b
+[22:49:54] [Server thread/INFO]: botnumberone4[/76.102.133.203:60919] logged in with entity id 33548 at (1642.08717990808, -35.0, 286.64583075508403)
+[22:49:54] [Server thread/INFO]: botnumberone4 joined the game
+[22:49:56] [Server thread/INFO]: <Ventro_> yo
+[22:53:55] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[22:53:55] [Server thread/INFO]: Ventro_ left the game
+[22:53:57] [User Authenticator #28/INFO]: UUID of player Ventro_ is 95714bc2-d71f-42fa-8ae4-f5938937874e
+[22:53:58] [Server thread/INFO]: Ventro_[/67.188.35.89:64899] logged in with entity id 35438 at (1562.3529331074462, 61.657056904099186, 279.8091035009949)
+[22:53:58] [Server thread/INFO]: Ventro_ joined the game
+[22:54:56] [Server thread/INFO]: <botnumberone4> almost done
+[22:54:59] [Server thread/INFO]: <botnumberone4> 2 more left to gi
+[22:55:03] [Server thread/INFO]: <botnumberone4> i have 15 spare dims
+[22:55:12] [Server thread/INFO]: <Ventro_> k
+[22:55:51] [Server thread/INFO]: <Ventro_> wut r coords
+[22:55:53] [Server thread/INFO]: <botnumberone4> wait
+[22:55:56] [Server thread/INFO]: <botnumberone4> meet up here
+[22:56:09] [Server thread/INFO]: <botnumberone4> 1407
+[22:56:20] [Server thread/INFO]: <botnumberone4> 250
+[22:56:23] [Server thread/INFO]: <botnumberone4> thats a village i found
+[22:56:31] [Server thread/INFO]: <botnumberone4> go now
+[22:56:44] [Server thread/INFO]: <Ventro_> i see ur nametage
+[22:56:50] [Server thread/INFO]: <botnumberone4> bruh
+[22:56:54] [Server thread/INFO]: <botnumberone4> go to village
+[22:57:05] [Server thread/INFO]: <Ventro_> and ur fly hacks
+[22:57:08] [Server thread/INFO]: <botnumberone4> im not
+[22:57:17] [Server thread/INFO]: <Ventro_> keep lying
+[22:57:20] [Server thread/INFO]: <botnumberone4> im using wate
+[22:57:23] [Server thread/INFO]: <botnumberone4> dumb ass
+[22:57:24] [Server thread/INFO]: <Ventro_> and ur 2 dogs
+[22:57:35] [Server thread/INFO]: <botnumberone4> oh so now ur xraying
+[22:57:38] [Server thread/INFO]: <botnumberone4> to see my 2 dogs
+[22:57:41] [Server thread/INFO]: <Ventro_> no
+[22:57:45] [Server thread/INFO]: <Ventro_> im in the vaults bruh
+[22:57:54] [Server thread/INFO]: <botnumberone4> cap
+[22:58:11] [Server thread/INFO]: <Ventro_> i wont tell for my gear
+[22:58:22] [Server thread/INFO]: <botnumberone4> tell what
+[22:58:28] [Server thread/INFO]: <Ventro_> ur flying hac
+[22:58:30] [Server thread/INFO]: <Ventro_> replay
+[22:58:31] [Server thread/INFO]: <botnumberone4> im not
+[22:58:39] [Server thread/INFO]: <Ventro_> surreee
+[22:58:44] [Server thread/INFO]: <botnumberone4> wdym sure
+[22:58:48] [Server thread/INFO]: <Ventro_> I SAW IT
+[22:58:59] [Server thread/INFO]: <botnumberone4> ur opposite side of me idiot
+[22:59:12] [Server thread/INFO]: <botnumberone4> theres a wall
+[22:59:20] [Server thread/INFO]: <Ventro_> i was awthcing u bruh
+[22:59:33] [Server thread/INFO]: <Ventro_> wher ru
+[22:59:44] [Server thread/INFO]: <botnumberone4> this my last one
+[22:59:54] [Server thread/INFO]: <Ventro_> thx
+[23:00:02] [Server thread/INFO]: <botnumberone4> crating table pls
+[23:00:08] [Server thread/INFO]: Ventro_ lost connection: Disconnected
+[23:00:08] [Server thread/INFO]: Ventro_ left the game
+[23:06:07] [Server thread/INFO]: botnumberone4 has made the advancement [The Parrots and the Bats]
+[23:07:09] [Server thread/INFO]: botnumberone4 lost connection: Disconnected
+[23:07:09] [Server thread/INFO]: botnumberone4 left the game
+[23:08:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
